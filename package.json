@@ -13,7 +13,7 @@
   "scripts": {
     "build": "./node_modules/.bin/babel index.js --out-file dist/vue-scroll-reveal.js --presets=es2015 --plugins transform-object-assign"
   },
-  "repository": "https://github.com/tserkov/vue-scroll-reveal",
+  "repository": "https://github.com/ryanhovland/vue-scroll-reveal",
   "author": "tserkov <james.churchard@gmail.com>",
   "contributors": [
     "J Garcia (https://github.com/JGJP)",
